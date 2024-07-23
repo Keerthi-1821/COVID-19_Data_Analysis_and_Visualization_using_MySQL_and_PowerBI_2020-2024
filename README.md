@@ -17,15 +17,16 @@ The sample raw data files are located in the data/sample_raw_data/ folder which 
 #### Original Dataset
 - The complete original COVID-19 dataset, which includes data from 2020 to 2024, can be accessed from the following source:
   [this link](https://ourworldindata.org/coronavirus)
-### SQL Scripts
+  
+### COVID-19-Data-Analysis-and-Visualization/sqldb_setup/ Folder 
 
 #### Database Setup
 - `sqldb_setup/table_definitions.sql`: Script to create the database schema and indexes.
 - `sqldb_setup/Table_DataImport.sql`: Script to import processed data from excel into MYSQL database.
 
 ### Queries and Views
-This file contains comprehensive SQL queries and in-depth analysis of the data. 
-It includes complex queries using temporary tables, stored procedures, and views, providing detailed insights into the dataset.
+- `SQLQueriesandViews.sql` - This file contains comprehensive SQL queries and in-depth analysis of the data. 
+  It includes complex queries using temporary tables, stored procedures, and views, providing detailed insights into the dataset.
 
 ## Power BI Report
 - View the INTERACTIVE POWERBI report online using [this link](https://bit.ly/4bMZE7O)
