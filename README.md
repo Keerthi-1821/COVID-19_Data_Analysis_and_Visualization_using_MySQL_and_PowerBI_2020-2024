@@ -14,15 +14,18 @@ The sample raw data files are located in the data/sample_raw_data/ folder which 
    featuring metrics such as total and new deaths, total and new cases and much more information about the infection worldwide.
   
 - `raw_sample_data/sample.covid_vacc2.csv`: A sample file with COVID-19 vaccination data, including details on vaccination counts all over the world.
-
+#### Original Dataset
+- The complete original COVID-19 dataset, which includes data from 2020 to 2024, can be accessed from the following source:
+  [this link](https://ourworldindata.org/coronavirus)
 ### SQL Scripts
 
 #### Database Setup
-- `database_setup/table_definitions.sql`: Script to create the database schema and indexes.
-- `database_setup/Table_DataImport.sql`: Script to import processed data samples into the database.
+- `sqldb_setup/table_definitions.sql`: Script to create the database schema and indexes.
+- `sqldb_setup/Table_DataImport.sql`: Script to import processed data from excel into MYSQL database.
 
 ### Queries and Views
-- `SQLQueriesandViews.sql`: Script to create views and run example queries.
+This file contains comprehensive SQL queries and in-depth analysis of the data. 
+It includes complex queries using temporary tables, stored procedures, and views, providing detailed insights into the dataset.
 
 ## Power BI Report
-- View the interactive Power BI report online using [this link](https://bit.ly/4bMZE7O)
+- View the INTERACTIVE POWERBI report online using [this link](https://bit.ly/4bMZE7O)
