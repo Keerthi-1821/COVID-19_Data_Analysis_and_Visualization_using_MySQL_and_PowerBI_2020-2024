@@ -4,12 +4,12 @@
 This project demonstrates my skills in data analysis, including data cleaning, processing, querying, data analysis and data visualization. 
 The raw and processed data are used to create tables in a MySQL database, which are then queried and visualized using Power BI. 
 
-### Raw_Sample_Data/ Folder
+### COVID-19-Data-Analysis-and-Visualization/Raw_Sample_Data/ Folder
 Due to the large size of the original dataset, this repository includes a subset of the data for demonstration purposes. 
 The sample raw data files are located in the data/sample_raw_data/ folder which includes:
 
 - `raw_Sample_data/Sample_data.csv`: The original raw data file with 1000 sample rows.
-#### Processed Data
+#### Processed Data from Original File
 - `raw_sample_data/sample.covid_deaths.csv`: A sample file containing COVID-19 death statistics,
    featuring metrics such as total and new deaths, total and new cases and much more information about the infection worldwide.
   
