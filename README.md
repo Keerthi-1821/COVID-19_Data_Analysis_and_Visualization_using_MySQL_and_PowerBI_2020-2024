@@ -1,8 +1,7 @@
 # COVID-19 Data Analysis Project
 
 ## Project Overview
-This project demonstrates my skills in data analysis, including data cleaning, processing, querying, data analysis and data visualization. 
-The raw and processed data are used to create tables in a MySQL database, which are then queried and visualized using Power BI. 
+This project shows my skills in data analysis, including data cleaning, processing, querying, analysis, and visualization. The dataset encompasses comprehensive COVID-19 information from 2020 to 2024, covering details about deaths, cases, vaccinations, and more. The raw and processed data were used to create tables in a MySQL database. These tables were then queried and visualized using Power BI to provide insightful visualizations of the data.
 
 ### COVID-19-Data-Analysis-and-Visualization/Raw_Sample_Data/ Folder
 Due to the large size of the original dataset, this repository includes a subset of the data for demonstration purposes. 
@@ -19,7 +18,6 @@ The sample raw data files are located in the data/sample_raw_data/ folder which 
   [this link](https://ourworldindata.org/coronavirus)
   
 ### COVID-19-Data-Analysis-and-Visualization/sqldb_setup/ Folder 
-
 #### Database Setup
 - `sqldb_setup/table_definitions.sql`: Script to create the database schema and indexes.
 - `sqldb_setup/Table_DataImport.sql`: Script to import processed data from excel into MYSQL database.
