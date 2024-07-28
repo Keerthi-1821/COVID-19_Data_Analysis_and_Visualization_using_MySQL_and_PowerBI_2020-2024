@@ -22,6 +22,9 @@ The sample raw data files are located in the data/sample_raw_data/ folder which 
 - `sqldb_setup/table_definitions.sql`: Script to create the database schema and indexes.
 - `sqldb_setup/Table_DataImport.sql`: Script to import processed data from excel into MYSQL database.
 
+### Power BI Visualization File 
+- 'CovidProjectReportPBI.pbix' : This consists of all the visualizations and related Data Models
+  
 ### Queries and Views
 - `SQLQueriesandViews.sql` - This file contains comprehensive SQL queries and in-depth analysis of the data. 
   It includes complex queries using temporary tables, stored procedures, and views, providing detailed insights into the dataset.
