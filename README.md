@@ -15,7 +15,7 @@ The sample raw data files are located in the data/sample_raw_data/ folder which 
 - `raw_sample_data/sample.covid_vacc2.csv`: A sample file with COVID-19 vaccination data, including details on vaccination counts all over the world.
 #### Original Dataset
 - The complete original COVID-19 dataset, which includes data from 2020 to 2024, can be accessed from the following source:
-  [this link](https://ourworldindata.org/coronavirus)
+  [Original Data File](https://ourworldindata.org/coronavirus)
   
 ### COVID-19-Data-Analysis-and-Visualization/sqldb_setup/ Folder 
 #### Database Setup
@@ -30,4 +30,4 @@ The sample raw data files are located in the data/sample_raw_data/ folder which 
   It includes complex queries using temporary tables, stored procedures, and views, providing detailed insights into the dataset.
 
 ## Power BI Report
-- View the INTERACTIVE POWERBI report online using [this link](https://bit.ly/4bMZE7O)
+- View the INTERACTIVE POWERBI report online using [Interactive PowerBI Report](https://bit.ly/4bMZE7O)
