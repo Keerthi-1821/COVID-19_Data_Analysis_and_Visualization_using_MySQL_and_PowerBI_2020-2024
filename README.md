@@ -30,4 +30,4 @@ The sample raw data files are located in the data/sample_raw_data/ folder which 
   It includes complex queries using temporary tables, stored procedures, and views, providing detailed insights into the dataset.
 
 ## Power BI Report
-- View the INTERACTIVE POWERBI report online using [Interactive PowerBI Report](https://bit.ly/4bMZE7O)
+- View the INTERACTIVE POWERBI report online using [PowerBI Report](https://bit.ly/4bMZE7O)
