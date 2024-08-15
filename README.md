@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Project
+# COVID-19 Data Analysis Project (2020-2024)
 
 ## Project Overview
 This project shows my skills in data analysis, including data cleaning, processing, querying, analysis, and visualization. The dataset encompasses comprehensive COVID-19 information from 2020 to 2024, covering details about cases, deaths, vaccinations, and more. The raw and processed data were used to create tables in a MySQL database. These tables were then queried in MYSQL and visualized using Power BI to provide insightful visualizations of the data.
