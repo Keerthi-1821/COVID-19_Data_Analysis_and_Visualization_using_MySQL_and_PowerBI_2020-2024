@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis Project
 
 ## Project Overview
-This project shows my skills in data analysis, including data cleaning, processing, querying, analysis, and visualization. The dataset encompasses comprehensive COVID-19 information from 2020 to 2024, covering details about deaths, cases, vaccinations, and more. The raw and processed data were used to create tables in a MySQL database. These tables were then queried and visualized using Power BI to provide insightful visualizations of the data.
+This project shows my skills in data analysis, including data cleaning, processing, querying, analysis, and visualization. The dataset encompasses comprehensive COVID-19 information from 2020 to 2024, covering details about cases, deaths, vaccinations, and more. The raw and processed data were used to create tables in a MySQL database. These tables were then queried and visualized using Power BI to provide insightful visualizations of the data.
 
 ### COVID-19-Data-Analysis-and-Visualization/Raw_Sample_Data/ Folder
 Due to the large size of the original dataset, this repository includes a subset of the data for demonstration purposes. 
